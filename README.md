@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+The script shows the list of user's friends in vk.com who are online.
 
 # How to Install
 
